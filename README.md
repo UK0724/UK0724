@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Uday  
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** focused on building **scalable, cloud-ready, and production-grade applications**.  
+I'm a passionate **Full-Stack Web Developer** focused on building **scalable, cloud-ready, and production-grade applications**.  
 
 
 ## 🚀 About Me  
@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** focu
 ## 📫 Let’s Connect  
 
 - 🌐 Portfolio → [udaykumar.abuk.in](https://udaykumar.abuk.in)  
-- 💼 LinkedIn → [linkedin.com/in/udaykumar](https://linkedin.com)  
+- 💼 LinkedIn → [linkedin.com/in/udaykumar](https://www.linkedin.com/in/uday-kumar-a-b-b15716216/)  
 
 ---
