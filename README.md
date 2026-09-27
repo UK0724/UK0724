@@ -1,69 +1,111 @@
-# Hi, I'm Uday 👋
+<p align="center">
+  <img src="./profile-banner.svg" alt="Uday Kumar — Full-stack engineer. Thoughtful interfaces. Reliable systems. Useful AI." width="100%" />
+</p>
 
-### Full-Stack Developer · React, Next.js & Node.js · AWS & AI Integrations
+<p align="center">
+  <a href="https://udaykumar.abuk.in"><img src="https://img.shields.io/badge/Explore_my_portfolio-0F172A?style=for-the-badge" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/uday-kumar-a-b-b15716216/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ab.udaykumar@gmail.com"><img src="https://img.shields.io/badge/Email_me-6D28D9?style=for-the-badge" alt="Email me" /></a>
+</p>
 
-I build web applications that connect useful interfaces with APIs, databases, and cloud services. My projects span personal productivity, reading management, serverless media uploads, and AI copilots that interact with application data.
+<p align="center"><b>4+ years building web applications · Frontend, backend &amp; cloud · MERN / MEAN</b></p>
 
-**Explore my work:** [Portfolio](https://udaykumar.abuk.in) · [LinkedIn](https://www.linkedin.com/in/uday-kumar-a-b-b15716216/) · [Repositories](https://github.com/UK0724?tab=repositories)
+I'm **Uday**, a full-stack engineer at **NCompass TechStudio**. I work across React and Angular interfaces, Node.js APIs, real-time systems, and AWS media workflows. I also build personal products and practical AI integration examples.
+
+### Experience that translates into delivery
+
+- **Frontend performance:** improved performance by approximately **30%** through lazy loading, memoization, virtual scrolling, and rendering optimization.
+- **End-to-end engineering:** REST APIs with authentication and role-based access, MongoDB data models, and real-time communication with Socket.IO.
+- **Product experience:** multi-tenant SaaS, analytics dashboards, warehouse interfaces, and livestream processing workflows.
+
+<sub>Experience and impact highlights from my <a href="https://udaykumar.abuk.in">portfolio</a> · Software Developer, 2022–present · Integrated M.Tech in Software Engineering, VIT, 2017–2022.</sub>
+
+## Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ Pulse · Habit Tracker
+**A daily productivity app for web and mobile.**
+
+Track action and measurable habits, streaks, progress, and expenses. Includes user-scoped APIs, JWT authentication, and a React Native / Expo companion.
+
+<sub>React · TypeScript · Express · MongoDB · Expo</sub>
+
+**[Visit live app ↗](https://habbit.abuk.in)** · **[Explore code →](https://github.com/UK0724/Habbit-tracker)**  
+<sub>Live app requires sign-in.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ✦ CopilotKit Guide
+**AI assistants connected to real application context.**
+
+A Sprint Board demo showing context injection, frontend tool execution, and AG-UI streaming. Companion examples are organized by episode.
+
+<sub>Next.js · React · TypeScript · CopilotKit · Gemini</sub>
+
+**[Explore code & run locally →](https://github.com/UK0724/copilot)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ▤ Bookshelf
+**A personal reading companion.**
+
+Organize books by reading status and tags, track reading statistics, and manage a library through an authenticated API.
+
+<sub>Next.js · Tailwind CSS · Express · MongoDB</sub>
+
+**[Explore code →](https://github.com/UK0724/Personal-Book-Manager)**
+
+</td>
+<td width="50%" valign="top">
+
+### ☁ Serverless S3 Uploads
+**Direct media uploads with presigned URLs.**
+
+An AWS example connecting API Gateway, Lambda, and S3 for image and video uploads.
+
+<sub>JavaScript · Amazon S3 · Lambda · API Gateway</sub>
+
+**[Explore code →](https://github.com/UK0724/aws-s3-presigned-url-upload)**
+
+</td>
+</tr>
+</table>
+
+## My toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-287F46?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-DD7A00?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
+</p>
+
+**Also work with:** NestJS, Express, Tailwind CSS, TanStack Query, Socket.IO, React Native / Expo, and CopilotKit.
+
+## A closer look at my work
+
+<a href="https://udaykumar.abuk.in">
+  <img src="https://github.com/user-attachments/assets/cc71fd78-2d32-495d-b239-312ce31b28f3" alt="Screenshot of my portfolio showing livestreaming, analytics, and multi-tenant SaaS project summaries" width="100%" />
+</a>
+
+[Explore professional projects and experience on my portfolio →](https://udaykumar.abuk.in)
 
 ---
 
-## Selected projects
+### Have a role or a project in mind?
 
-### [Habit Tracker](https://github.com/UK0724/Habbit-tracker)
-A full-stack productivity app for tracking habits, measurable goals, and expenses.
+I'm interested in teams that value ownership, engineering quality, and useful products. For **frontend or full-stack opportunities**, or to collaborate on a build, let's talk.
 
-- Action and numeric habit logs, progress statistics, and category budgets.
-- JWT authentication, user-scoped APIs, and request validation.
-- React Native/Expo mobile app alongside the web client, with automated web and API checks.
+**[LinkedIn](https://www.linkedin.com/in/uday-kumar-a-b-b15716216/) · [Email](mailto:ab.udaykumar@gmail.com) · [Portfolio](https://udaykumar.abuk.in)**
 
-**Built with:** React · TypeScript · Node.js · Express · MongoDB · TanStack Query · Zustand · Expo
-
-### [CopilotKit Complete Guide](https://github.com/UK0724/copilot)
-Code and examples for building AI copilots inside web applications.
-
-- A Sprint Board demo connecting an AI assistant to application context and frontend tools.
-- Examples of context injection, tool execution, and AG-UI streaming.
-- Companion code organized by episode for developers to explore and run.
-
-**Built with:** Next.js · React · TypeScript · CopilotKit · Google Gemini
-
-### [Bookshelf — Personal Book Manager](https://github.com/UK0724/Personal-Book-Manager)
-A reading companion for organizing books and tracking a personal reading journey.
-
-- Reading statuses, tag and status filters, and reading statistics.
-- Authenticated book management through an Express API backed by MongoDB.
-
-**Built with:** Next.js · TypeScript · Tailwind CSS · Node.js · Express · MongoDB
-
-### [Serverless S3 Uploads](https://github.com/UK0724/aws-s3-presigned-url-upload)
-An AWS example for uploading images and videos to S3 using presigned URLs.
-
-**Built with:** Amazon S3 · AWS Lambda · API Gateway · JavaScript
-
-## Technical toolkit
-
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, TypeScript |
-| Frontend | React, Next.js, Angular, Tailwind CSS |
-| Backend & APIs | Node.js, Express, REST APIs |
-| Data | MongoDB, Mongoose, Firebase / Firestore |
-| Cloud | AWS S3, Lambda, API Gateway, MediaLive, MediaConvert, Google Cloud Functions |
-| AI & mobile | CopilotKit, Google Gemini, React Native, Expo |
-| Development | Git, GitHub, Postman, ESLint, Prettier |
-
-## What I'm focused on
-
-- Building complete features across the interface, API, and database.
-- Making applications easier to maintain through modular code, validation, and automated checks.
-- Exploring AI integrations that can use application context and take useful actions.
-- Sharing practical examples that other developers can run and learn from.
-
-## Let's connect
-
-**Hiring for a frontend or full-stack role?** Explore the projects above for examples of my work with React, Next.js, TypeScript, Node.js, and AWS. I'd be happy to discuss how that experience fits your team.
-
-Building something similar or interested in collaborating? Let's connect on [LinkedIn](https://www.linkedin.com/in/uday-kumar-a-b-b15716216/).
-
-[Visit my portfolio](https://udaykumar.abuk.in) · [Connect on LinkedIn](https://www.linkedin.com/in/uday-kumar-a-b-b15716216/)
